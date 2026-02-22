@@ -28,7 +28,7 @@ async workers • queues • streaming pipeline • long-running inference
 ## Stack
 
 ![Python](https://img.shields.io/badge/python-333?style=flat&logo=python)
-![YOLO](https://img.shields.io/badge/YOLOv8-333?style=flat&logo=yolo&logoColor=white)
+![YOLO](https://img.shields.io/badge/yolo-333?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-333?style=flat&logo=postgresql)
 ![ClickHouse](https://img.shields.io/badge/clickhouse-333?style=flat&logo=clickhouse)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-333?style=flat&logo=rabbitmq)
