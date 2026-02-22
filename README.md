@@ -1,8 +1,8 @@
 <div align="center">
 
-# Muflih MA
+# Muflih, Abdullah Mu'adz
 
-Applied Computer Vision / Edge AI
+Jr. Data Scientist - Applied Computer Vision / Edge AI
 
 camera → detection → events → storage → dashboard
 
@@ -14,7 +14,9 @@ camera → detection → events → storage → dashboard
 
 ## Work
 
-* fire / smoke / intrusion detection
+* fire & smoke detection
+* restricted area detection
+* people counting analytics
 * face search & recognition
 * license plate recognition
 * annotated RTSP streaming
@@ -25,13 +27,14 @@ async workers • queues • streaming pipeline • long-running inference
 
 ## Stack
 
-![Python](https://img.shields.io/badge/python-333?style=flat\&logo=python)
-![YOLO](https://img.shields.io/badge/yolo-333)
-![Postgres](https://img.shields.io/badge/postgresql-333?style=flat\&logo=postgresql)
-![ClickHouse](https://img.shields.io/badge/clickhouse-333)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-333)
-![Redis](https://img.shields.io/badge/redis-333)
-![Linux](https://img.shields.io/badge/linux-333?style=flat\&logo=linux)
+![Python](https://img.shields.io/badge/python-333?style=flat&logo=python)
+![YOLO](https://img.shields.io/badge/YOLOv8-333?style=flat&logo=yolo&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-333?style=flat&logo=postgresql)
+![ClickHouse](https://img.shields.io/badge/clickhouse-333?style=flat&logo=clickhouse)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-333?style=flat&logo=rabbitmq)
+![Redis](https://img.shields.io/badge/redis-333?style=flat&logo=redis)
+![Linux](https://img.shields.io/badge/linux-333?style=flat&logo=linux)
+![Ubuntu](https://img.shields.io/badge/ubuntu_server-333?style=flat&logo=ubuntu)
 
 ## Home Lab
 
