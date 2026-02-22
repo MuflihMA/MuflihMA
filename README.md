@@ -4,7 +4,7 @@
 
 Jr. Data Scientist - Applied Computer Vision / Edge AI
 
-camera → detection → events → storage → dashboard
+camera → detection → events → backend → dashboard
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=real-time+video+analytics;async+inference+pipeline;edge+devices+%2B+backend;systems+that+run+24%2F7"/>
 
