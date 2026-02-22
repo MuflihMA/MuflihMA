@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Muflih
+# Muflih MA
 
 ### Applied Computer Vision & Edge AI Engineer
 
@@ -80,7 +80,7 @@ Dataset → training → evaluation → deployment
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuflihMA&show_icons=true&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=MuflihMA&theme=tokyonight&hide_border=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuflihMA&theme=tokyonight"/>
 </p>
 
