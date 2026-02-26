@@ -6,7 +6,7 @@ Jr. Data Scientist - Applied Computer Vision / Edge AI
 
 camera → detection → events → backend → dashboard
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=real-time+video+analytics;I+hate+myself;edge+devices;systems+that+run+24%2F7"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=real-time+video+analytics;edge+devices;I+hate+myself;Trying+to+get+better.;A+lot+of+thing+to+learn."/>
 
 </div>
 
