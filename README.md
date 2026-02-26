@@ -38,7 +38,7 @@ streaming inference • event pipelines • background workers • edge-to-backe
 ### Backend & Processing
 
 ![FastAPI](https://img.shields.io/badge/fastapi-333?style=flat\&logo=fastapi)
-![Celery](https://img.shields.io/badge/celery-333?style=flat)
+![Celery Workers](https://img.shields.io/badge/celery_workers-333?style=flat\&logo=python)
 ![Kafka](https://img.shields.io/badge/apache_kafka-333?style=flat\&logo=apachekafka)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-333?style=flat\&logo=rabbitmq)
 ![Redis](https://img.shields.io/badge/redis-333?style=flat\&logo=redis)
